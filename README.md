@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xpatk
-- 👀 I’m interested in website development, machine learning
+- 👀 I’m interested in website/mobile development, machine learning
 - 🌱 I’m currently learning HTML, CSS, JS, PHP, MySQL
 
 <!---
