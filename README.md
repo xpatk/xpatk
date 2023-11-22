@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xpatk
 - 👀 I’m interested in website/mobile development, machine learning
-- 🌱 I’m currently learning HTML, CSS, JS, PHP, MySQL
+- 🌱 Currently learning HTML, CSS, JS, PHP, SQL, C
 
 <!---
 xpatk/xpatk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
